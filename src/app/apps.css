@@ -1,0 +1,7 @@
+/* src/App.css */
+.bg-cover-custom {
+    background-image: url('/assets/fon.jpg'); /* Cambia esto a la ruta de tu imagen */
+    background-size: cover;
+    background-position: center;
+  }
+  
